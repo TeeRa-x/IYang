@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
 <div align="center">
 <img src="ImgForReadme/Watch Rick And Morty.gif">
 </div>
