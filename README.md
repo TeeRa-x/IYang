@@ -1,1 +1,3 @@
-<center><img src="ImgForReadme/Watch Rick And Morty.gif"></center>
+<div align="center">
+<img src="ImgForReadme/Watch Rick And Morty.gif">
+</div>
