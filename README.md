@@ -1,2 +1,1 @@
-# IYang
-สวัสดีครับท่านผู้ชม
+<center><img src="ImgForReadme/Watch Rick And Morty.gif"></center>
