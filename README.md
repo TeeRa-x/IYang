@@ -2,4 +2,4 @@
 <img src="ImgForReadme/Watch Rick And Morty.gif">
 </div>
 <hr>
-<center>🚀Welcome</center>
+<div align="center">🚀Welcome...</div>
